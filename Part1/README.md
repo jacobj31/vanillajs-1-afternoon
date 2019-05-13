@@ -289,7 +289,7 @@ function play(clickedId) {
     return;
   }
   if (middleLeft !== undefined && middleLeft === middleCenter && middleLeft === middleRight) {
-    alert(`${middleLeft} is the winner`);
+    alert(`${middleLe`ft} is the winner`);
     return;
   }
   if (bottomLeft !== undefined && bottomLeft === bottomCenter && bottomLeft === bottomRight) {
